@@ -3,6 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winvdaking&label=Profile%20views&color=0e75b6&style=flat" alt="winvdaking" /> </p>
 </p>
 
+<img align="center" src="https://i.imgur.com/fSjUSSa.png" alt="winvdaking">
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/𝒲𝑖𝑛𝑣#3639) 
 
@@ -13,8 +15,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=winvdaking&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=winvdaking&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=winvdaking&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img align="center" src="https://i.imgur.com/fSjUSSa.png" alt="winvdaking">
 
