@@ -1,5 +1,5 @@
 <h1 align="center">Hi @everyone, I'm Winv</h1>
-<h3 align="center">Bot & Web Developer</h3>
+<h3 align="center">FullStack Developer & Bot Master</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winvdaking&label=Profile%20views&color=0e75b6&style=flat" alt="winvdaking" /> </p>
 </p>
 
