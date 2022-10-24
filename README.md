@@ -14,6 +14,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=winvdaking&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
-<img align="center" src="https://i.imgur.com/qfRbvkx.png" alt="winvdaking">
+<img align="center" src="https://i.imgur.com/Kf9wMp9.png" alt="winvdaking">
 
 
