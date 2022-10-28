@@ -1,7 +1,7 @@
-<h1 align="center">Hi *@everyone*, I'm **Winv**</h1>
+<h1 align="center">Hi @everyone, I'm <strong>Winv</h1>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=winvdaking&label=Profile%20views&color=0e75b6&style=flat" alt="winvdaking" /></p>
 <img align="center" src="https://i.imgur.com/Kf9wMp9.png" alt="winvdaking">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=winvdaking&label=Profile%20views&color=0e75b6&style=flat" alt="winvdaking" /> </p>
-</p>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/𝒲𝑖𝑛𝑣#3639) 
