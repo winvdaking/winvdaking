@@ -1,6 +1,6 @@
 <h1 align="center">Hi @everyone, I'm <strong>Winv</h1>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=winvdaking&label=Profile%20views&color=0e75b6&style=flat" alt="winvdaking" /></p>
-<img align="center" src="https://i.imgur.com/Kf9wMp9.png" alt="winvdaking">
+<img align="center" src="https://i.imgur.com/7bR5nAf.png" alt="winvdaking">
 
 
 # ✉️ Socials
