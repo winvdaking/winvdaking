@@ -1,11 +1,7 @@
-<h1 align="center">Hi @everyone, I'm <strong>Winv</h1>
+<h1 align="center">Hi @everyone, I'm Winv aka Dorian 👋</h1> 
+  <p align="center"> <a href="https://discord.com/users/𝒲𝑖𝑛𝑣#3639" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a></p>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=winvdaking&label=Profile%20views&color=0e75b6&style=flat" alt="winvdaking" /></p>
-<img align="center" src="https://i.imgur.com/7bR5nAf.png" alt="winvdaking">
-
-
-# ✉️ Socials
-  
-<p align="left"> <a href="https://discord.com/users/𝒲𝑖𝑛𝑣#3639" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/winvdaking" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<img align="center" src="https://i.imgur.com/lO0SP6D.png" alt="winvdaking"> 
   
 ## My Skill
 <table><tr><td valign="top" width="33%">
