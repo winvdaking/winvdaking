@@ -61,6 +61,6 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=winvdaking&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<img src="https://streak-stats.demolab.com?user=winvdaking&theme=vue&hide_border=true&locale=fr&type=png" align="left" />  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winvdaking&hide_border=true&layout=compact" align="left" />
